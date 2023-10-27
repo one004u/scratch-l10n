@@ -211,5 +211,8 @@
     "wedo2.tiltDirection.right": "오른쪽",
     "wedo2.tiltDirection.up": "위쪽",
     "wedo2.whenDistance": "거리 [OP] [REFERENCE] 일 때",
-    "wedo2.whenTilted": "[TILT_DIRECTION_ANY] 방향으로 기울일 때"
+    "wedo2.whenTilted": "[TILT_DIRECTION_ANY] 방향으로 기울일 때",
+    "coconut.moveMotors": "[DIRECTION_FB] 움직이기",
+    "coconut.dir_forward": "앞으로",
+    "coconut.dir_backward": "뒤로"
 }

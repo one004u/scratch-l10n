@@ -467,6 +467,8 @@
     "gui.extension.wedo2.connectingMessage": "연결 중",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
+    "gui.extension.coconut.description": "감지하고 반응하는 로봇 등을 만들어 보세요.",
+    "gui.extension.coconut.connectingMessage": "연결 중",
     "gui.libraryTags.all": "모두",
     "gui.libraryTags.animals": "동물",
     "gui.libraryTags.dance": "댄스",

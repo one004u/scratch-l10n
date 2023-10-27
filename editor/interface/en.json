@@ -467,6 +467,8 @@
     "gui.extension.wedo2.connectingMessage": "Connecting",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
+    "gui.extension.coconut.description": "Sense push, pull, motion, and spin.",
+    "gui.extension.coconut.connectingMessage": "Connecting",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",
@@ -523,5 +525,5 @@
     "gui.theme.default": "Original",
     "gui.theme.dark": "Dark",
     "gui.theme.highContrast": "High Contrast",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
 }
